@@ -26,6 +26,7 @@ public class Main {
         System.out.println("22-from branch-b");
         System.out.println("23");
         System.out.println("24-from branch-b");
+        System.out.println("25");
 
 
     }
