@@ -29,6 +29,7 @@ public class Main {
         System.out.println("25");
         System.out.println("26-from branch-b");
         System.out.println("27");
+        System.out.println("28-from branch-b for fetch");
 
 
     }
